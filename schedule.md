@@ -1,9 +1,7 @@
 ---
 layout: page
-title:
+title: Winter 2023 Schedule
 ---
-
-# Winter 2023
 | week | CIS topic                    | CSS topic                 | reference        |
 |------|------------------------------|---------------------------|------------------|
 | 1    | signals, perceptron          | signals, systems          | Ambardar, Haykin |

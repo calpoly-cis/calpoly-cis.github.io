@@ -3,4 +3,4 @@ layout: default
 title: "Home"
 ---
 
-# Hello World
+See one, do one, teach one.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:
 ---
 
 See one, do one, teach one.

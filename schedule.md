@@ -8,7 +8,7 @@ The Control Systems Society (CSS) meetings will occur on Wednesdays from 11-12pm
 
 | week | CIS topic                    | CSS topic                 | reference        |
 |------|------------------------------|---------------------------|------------------|
-| 1    | signals, perceptron          | signals, systems          | Ambardar, Haykin |
+| 1    | signals, perceptron          | signals, systems          | Haykin, Ambardar |
 | 2    | multilayer perceptron        | system modeling           | Haykin, Dorf     |
 | 3    | regularization theory        | time domain analysis      | Haykin, Dorf     |
 | 4    | neurodynamics                | frequency domain analysis | Haykin, Dorf     |

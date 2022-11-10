@@ -1,3 +1,8 @@
+---
+layout: page
+title:
+---
+
 # Winter 2023
 | week | CIS | CSS | reference | 
 | :--- | :--- | :--- | :--- | 

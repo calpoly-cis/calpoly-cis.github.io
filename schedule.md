@@ -3,6 +3,7 @@ layout: page
 title: Winter 2023 Schedule
 ---
 The Computational Intelligence Society (CIS) meetings will occur on Mondays from 11-12pm.
+
 The Control Systems Society (CSS) meetings will occur on Wednesdays from 11-12pm.
 
 | week | CIS topic                    | CSS topic                 | reference        |

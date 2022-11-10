@@ -3,4 +3,4 @@ layout: default
 title: "Home"
 ---
 
-{% include home.html %}
+# Hello World

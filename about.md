@@ -1,3 +1,2 @@
-Hello! We are a group of students interested in forming student chapters of the Institute of Electrical and Electronics Engineers (IEEE) Computational Intelligence Society (CIS), Control Systems Society (CSS), and Communications Society (ComSoc).
-Our goal is to spread accessible knowledge for some more specialized topics in electrical engineering and to support research project development.
+Hello!  We are a group of students with some shared academic interests. Our goal is to spread accessible knowledge for specialized topics in electrical engineering and to support research project development. We will host weekly discussions, have ongoing research projects, and attend conferences.
 Anyone is welcome to join and attend meetings.

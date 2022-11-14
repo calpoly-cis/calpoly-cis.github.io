@@ -3,4 +3,4 @@ layout: page
 title:
 ---
 
-1. President: RJ Macaranas
+- RJ Macaranas, founder

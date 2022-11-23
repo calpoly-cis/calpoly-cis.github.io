@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "people.md", title: "People"}
   - {file: "about.md", title: "About"}
-  - {title: "News"}
+  - {file: "news.md", title: "News"}
   - {file: "schedule.md", title: "Schedule"}
-  - {title: "Archive"}
+  - {file: "archive.md", title: "Archive"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:rjmac22899@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/rjmacaranas"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

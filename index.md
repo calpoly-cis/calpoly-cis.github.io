@@ -3,6 +3,4 @@ layout: page
 title:
 ---
 
-Hello!
-
-[Recent News](formation.md)
+Use the links to learn more.

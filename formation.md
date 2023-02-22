@@ -1,5 +1,5 @@
 ---
-title:  "Computational Intelligence Society has formed"
+title:  "The society has formed"
 layout: post
 ---
 

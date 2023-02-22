@@ -1,6 +1,6 @@
-title: "Macaranas Research Group"
+title: "Computational Intelligence Society"
 author: "RJ Macaranas"
-description: "Cal Poly, San Luis Obispo"
+description: "Cal Poly Student Chapter"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.md", title: "Archive"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:rjmac22899@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/rjmacaranas"}
+  - {title: Mail, icon: envelope, url: "mailto:calpoly.ieee.cis@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/calpoly-cis"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:

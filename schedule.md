@@ -2,19 +2,17 @@
 layout: page
 title: Winter 2023 Schedule
 ---
-The Computational Intelligence Society (CIS) meetings will occur on Mondays from 11-12pm.
+Meetings will occur on Monday from 8-9pm in 20-111 and on Zoom.
 
-The Control Systems Society (CSS) meetings will occur on Wednesdays from 11-12pm.
-
-| week | CIS topic                    | CSS topic                 | reference        |
-|------|------------------------------|---------------------------|------------------|
-| 1    | signals, perceptron          | signals, systems          | Haykin, Ambardar |
-| 2    | multilayer perceptron        | system modeling           | Haykin, Dorf     |
-| 3    | regularization theory        | time domain analysis      | Haykin, Dorf     |
-| 4    | neurodynamics                | frequency domain analysis | Haykin, Dorf     |
-| 5    | recurrent networks           | root locus                | Haykin, Dorf     |
-| 6    | convolutional networks       | optimal control           | Haykin, Brogan   |
-| 7    | swarm intelligence           | state space               | Yang, Brogan     |
-| 8    | bat algorithm, cuckoo search | fuzzy logic               | Yang, Brogan     |
-| 9    | optimization                 | game theory               | Yang, Hespanha   |
-| 10   | classification               | noncooperative games      | Haykin, Hespanha |
+| week | topic                        |
+|------|------------------------------|
+| 1    | signals, perceptron          | 
+| 2    | multilayer perceptron        | 
+| 3    | regularization theory        | 
+| 4    | neurodynamics                | 
+| 5    | recurrent networks           | 
+| 6    | convolutional networks       | 
+| 7    | swarm intelligence           | 
+| 8    | bat algorithm, cuckoo search | 
+| 9    | optimization                 | 
+| 10   | classification               |

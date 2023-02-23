@@ -2,7 +2,7 @@
 layout: page
 title: Winter 2023 Schedule
 ---
-Meetings will occur on Monday from 8-9pm in 20-111 and on Zoom.
+Meetings will occur on Monday from 8-9pm in 20-126 and on Zoom.
 
 | week | topic                        |
 |------|------------------------------|

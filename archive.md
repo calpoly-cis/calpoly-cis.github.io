@@ -1,1 +1,1 @@
-<a href="[calpoly-cis.github.io/CIS_Society_Kickoff_and_Info_Session.pdf](https://github.com/calpoly-cis/calpoly-cis.github.io/blob/2436e3874e4d294310da3173367b16bab8159a61/CIS_Society_Kickoff_and_Info_Session.pdf)" target="_blank">Society Kickoff and Info Session Slides</a>
+<a href="[https://drive.google.com/file/d/1NFJKq_7JFPF5fzgXN2lkCTcKOSV3KtGx/view?usp=sharing" target="_blank">Society Kickoff and Info Session Slides</a>
